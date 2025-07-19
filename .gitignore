@@ -1,0 +1,11 @@
+# Ignore the Python virtual environment
+emp_sal_env/
+.venv/
+
+# Ignore model files and datasets
+*.pkl
+*.csv
+
+# Ignore system files
+__pycache__/
+.DS_Store
